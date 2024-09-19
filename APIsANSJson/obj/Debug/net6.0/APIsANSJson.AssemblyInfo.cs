@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIsANSJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31dc9bda92e282967758402f2b8811d6873c9657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83e59c23803c01c59287d356d2860e2dd306af10")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIsANSJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIsANSJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

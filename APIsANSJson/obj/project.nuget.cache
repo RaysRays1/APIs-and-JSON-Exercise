@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YTiM+M1lExpaV1m0T2Rm8C+SsscU0LHtEPbsCfdFUIB873VwKeGQ3Lym5aWE2xa8KKu8tfQJHtbNv/eDaVNdA==",
+  "success": true,
+  "projectFilePath": "/Users/raynardbrown/Desktop/repos2/APIs-and-JSON-Exercise/APIsANSJson/APIsANSJson.csproj",
+  "expectedPackageFiles": [
+    "/Users/raynardbrown/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.ref/6.0.32/microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.32/microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "/Users/raynardbrown/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.32/microsoft.netcore.app.host.osx-arm64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
